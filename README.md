@@ -3,7 +3,7 @@
 ## Agile
 * [Add a new issue](../../issues/new) (for each task)
 * [Add a new board](../../projects/new) (once, template: basic kanban)
-* [Use the project board](../../projects/1) (to keep track of tasks)
+* [Use the project board](../../projects/1) (to keep track of who does what)
 
 ## Team
 * [STUDENT_NAME](https://github.com/USER_NAME)

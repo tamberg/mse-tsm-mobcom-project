@@ -1,7 +1,7 @@
 # MSE TSM MobCom Project PROJECT_NAME
 
 ## Agile
-* [Use the project board](../../projects)
+* [Use the project board](../../projects/1)
 * [Add an issue](../../issues/new)
 
 ## Team

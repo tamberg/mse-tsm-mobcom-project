@@ -1,7 +1,8 @@
 # MSE TSM MobCom Project PROJECT_NAME
 
-## Agile Board
-* https://trello.com/PROJECT_NAME/
+## Agile
+* [Use the project board](projects)
+* [Add an issue](issues/new)
 
 ## Team
 * [STUDENT_NAME](https://github.com/USER_NAME)

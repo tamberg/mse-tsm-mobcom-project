@@ -6,8 +6,6 @@
 * ONBOARD_ACTUATOR_Y on pin PIN_Y 
 * EXTERNAL_SENSOR_Z on pin PIN_Z
 
-<img src="hardware-setup.png"/>
-
 ## Adding libraries
 * Arduino IDE > Sketch > Include Library > Manage Libraries ...
 * Search for "LIBRARY1_NAME" > Install

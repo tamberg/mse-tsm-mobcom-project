@@ -1,9 +1,9 @@
 # MSE TSM MobCom Project PROJECT_NAME
 
 ## Agile
-* [Add a new issue](../../issues/new) (e.g. )
-* [Add a new board](../../projects/new) (once, template: Basic Kanban)
-* [Use the project board](../../projects/1)
+* [Add a new issue](../../issues/new) (for each task)
+* [Add a new board](../../projects/new) (once, template: basic kanban)
+* [Use the project board](../../projects/1) (to keep track of tasks)
 
 ## Team
 * [STUDENT_NAME](https://github.com/USER_NAME)

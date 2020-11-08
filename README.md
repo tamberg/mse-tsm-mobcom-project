@@ -1,8 +1,9 @@
 # MSE TSM MobCom Project PROJECT_NAME
 
 ## Agile
+* [Add a new issue](../../issues/new)
+* [Add a new board](../../projects/new) (once)
 * [Use the project board](../../projects/1)
-* [Add an issue](../../issues/new)
 
 ## Team
 * [STUDENT_NAME](https://github.com/USER_NAME)

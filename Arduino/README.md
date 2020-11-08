@@ -1,7 +1,7 @@
 # PROJECT_NAME Arduino Program
 
 ## Prerequisites
-* [Adafruit Feather nRF52840 Sense](https://github.com/tamberg/mse-tsm-mobcom/wiki/Feather-nRF52840-Sense) device
+* [Feather nRF52840 Sense](https://github.com/tamberg/mse-tsm-mobcom/wiki/Feather-nRF52840-Sense) device
 * ONBOARD_SENSOR_X via I2C
 * ONBOARD_ACTUATOR_Y on pin PIN_Y 
 * EXTERNAL_SENSOR_Z on pin PIN_Z

@@ -1,4 +1,5 @@
 # MSE TSM MobCom Project PROJECT_NAME
+> Note: Replace all PLACE_HOLDERS with actual content.
 
 ## Agile
 * [Add a new issue](../../issues/new) for each task.

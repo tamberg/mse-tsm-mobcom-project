@@ -20,4 +20,4 @@
 * [Video](docs/Video.mp4) (MP4)
 
 ## Prompts
-* [Prompts](prompts)
+* [Prompts](prompts) (TXT)

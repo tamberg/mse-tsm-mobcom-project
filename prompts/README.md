@@ -12,5 +12,5 @@ To attribute "AI" tool use in a source file, for transparency and academic integ
 
 ```kotlin
 // License ...
-// based on $REPO_PATH/Prompts/2025-08-29T09-45-00Z.txt
+// based on $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
 ```

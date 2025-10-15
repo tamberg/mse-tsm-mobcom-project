@@ -14,7 +14,7 @@
 ## Docs
 * [Slides](Docs/Slides.pdf) (PDF)
 * [Video](Docs/Video.mp4) (MP4)
-* [Prompts](Prompts) (TXT)
+* [Prompts](Docs/Prompts.txt) (TXT)
 
 ## Code
 * [Android](Android)

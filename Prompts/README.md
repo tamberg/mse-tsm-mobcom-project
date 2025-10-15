@@ -4,7 +4,7 @@ The "AI" tool prompts used in this project.
 > Note: it is absolutely fine, not to use "AI" tools at all.
 
 ### Save prompts or entire sessions
-- Download your "AI" tool prompts or session logs into the _prompts_ directory
+- Download your "AI" tool prompts or session logs into this _Prompts_ directory
 - Rename the file to include a UTC timestamp, e.g. 2025-08-29T09-45-00Z.txt
 
 ### Mark code as based on a prompt
@@ -12,5 +12,5 @@ To attribute "AI" tool use in a source file, for transparency and academic integ
 
 ```kotlin
 // License ...
-// based on $REPO_PATH/prompts/2025-08-29T09-45-00Z.txt
+// based on $REPO_PATH/Prompts/2025-08-29T09-45-00Z.txt
 ```

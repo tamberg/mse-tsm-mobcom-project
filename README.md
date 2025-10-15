@@ -14,8 +14,10 @@
 ## Docs
 * [Slides](Docs/Slides.pdf) (PDF)
 * [Video](Docs/Video.mp4) (MP4)
-* [Prompts](Docs/Prompts)
 
 ## Code
 * [Android](Android)
 * [Arduino](Arduino)
+
+## Prompts
+* [Prompts](Prompts)

@@ -3,7 +3,7 @@
 ## Agile
 * [Add a new issue](../../issues/new) for each task.
 * Tag [issues]() with [todo](), [doing](), [done]() (and [backlog]()).
-* Update once a week, to keep track of who works on what.
+* Update tags once a week, to keep track of who does what.
 
 ## Team
 * [STUDENT_NAME](https://github.com/USER_NAME)

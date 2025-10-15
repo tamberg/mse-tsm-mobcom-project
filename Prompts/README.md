@@ -1,5 +1,5 @@
 # Prompts
-A collection of "AI" tool prompts used in this project.
+The "AI" tool prompts used in this project.
 
 > Note: it is absolutely fine, not to use "AI" tools at all.
 

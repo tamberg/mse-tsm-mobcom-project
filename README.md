@@ -12,12 +12,12 @@
 * STUDENT3_NAME ([@GITHUB_USER3](https://github.com/GITHUB_USER3))
 
 ## Code
-* [Android](Android)
-* [Arduino](Arduino)
+* [Android](android)
+* [Arduino](arduino)
 
 ## Docs
-* [Slides](Docs/Slides.pdf) (PDF)
-* [Video](Docs/Video.mp4) (MP4)
+* [Slides](docs/Slides.pdf) (PDF)
+* [Video](docs/Video.mp4) (MP4)
 
 ## Prompts
-* [Prompts](Prompts)
+* [Prompts](prompts)

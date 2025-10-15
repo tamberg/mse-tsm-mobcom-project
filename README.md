@@ -6,11 +6,11 @@
 * Update tags once a week, to keep track of who does what.
 
 ## Team
+> Note: Commit (and push) early and often, git history is proof of team work.
+
 * STUDENT1_NAME ([@GITHUB_USER1](https://github.com/GITHUB_USER1))
 * STUDENT2_NAME ([@GITHUB_USER2](https://github.com/GITHUB_USER2))
 * STUDENT3_NAME ([@GITHUB_USER3](https://github.com/GITHUB_USER3))
-
-* Commit (and push) early and often, git history is proof of team work.
 
 ## Docs
 * [Slides](Docs/Slides.pdf) (PDF)

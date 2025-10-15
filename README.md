@@ -2,7 +2,7 @@
 
 ## Agile
 * [Add a new issue](../../issues/new) for each task.
-* Tag [issues]() with [todo](), [doing](), [done]() (and [backlog]()).
+* Tag [issues](issues) with [todo](), [doing](), [done]() (and [backlog]()).
 * Update tags once a week, to keep track of who does what.
 
 ## Team

@@ -6,9 +6,9 @@
 * Update tags once a week, to keep track of who does what.
 
 ## Team
-* [STUDENT_NAME](https://github.com/USER_NAME)
-* [STUDENT_NAME](https://github.com/USER_NAME)
-* [STUDENT_NAME](https://github.com/USER_NAME)
+* STUDENT1_NAME ([@GITHUB_USER1](https://github.com/GITHUB_USER1)
+* STUDENT2_NAME ([@GITHUB_USER2](https://github.com/GITHUB_USER2)
+* STUDENT3_NAME ([@GITHUB_USER3](https://github.com/GITHUB_USER3)
 
 ## Docs
 * [Slides](Docs/Slides.pdf) (PDF)

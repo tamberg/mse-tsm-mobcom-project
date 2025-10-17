@@ -1,6 +1,7 @@
 # Arduino
 
 ## Prerequisites
+* Donwload and install the [Arduino IDE Version 2.x.y](https://www.arduino.cc/en/software/)
 * [Feather nRF52840 Sense](https://github.com/tamberg/mse-tsm-mobcom/wiki/Feather-nRF52840-Sense) device
 * ONBOARD_SENSOR_X via I2C
 * ONBOARD_ACTUATOR_Y on pin PIN_Y 

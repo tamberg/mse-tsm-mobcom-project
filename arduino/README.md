@@ -1,4 +1,5 @@
 # Arduino
+> Note: Adapt the text below as needed, to document your setup.
 
 ## Prerequisites
 * Download and install the [Arduino IDE Version 2.x.y](https://www.arduino.cc/en/software/)

@@ -1,10 +1,7 @@
-# PROJECT_NAME Android App
+# Android app
 
 ## Prerequisites
 * Android smartphone with BLE, API Level 26+
-
-## Getting the library
-* ...
 
 ## Building the app
 * Android Studio > Build > Make Project

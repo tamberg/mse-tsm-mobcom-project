@@ -1,4 +1,4 @@
-# Android app
+# Android
 
 ## Prerequisites
 * Android smartphone with BLE, API Level 26+

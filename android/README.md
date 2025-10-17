@@ -1,6 +1,7 @@
 # Android
 
 ## Prerequisites
+* Download and install the [AndroidStudio IDE](https://developer.android.com/studio)
 * Android smartphone with BLE, API Level 26+
 
 ## Building the app

@@ -1,4 +1,4 @@
-# PROJECT_NAME Arduino Program
+# Arduino
 
 ## Prerequisites
 * [Feather nRF52840 Sense](https://github.com/tamberg/mse-tsm-mobcom/wiki/Feather-nRF52840-Sense) device
